@@ -19,4 +19,4 @@ The ERD is pictured below - not all tables are shown, but many of the key fields
 3. Select one column from a table. Get film titles.
 4. Select one column from a table and alias it. Get unique list of film languages under the alias `language`. Note that we are not asking you to obtain the language per each film, but this is a good time to think about how you might get that information in the future.
 5. Using the `select` statements and reviewing how many records are returned, can you find out how many stores and staff does the company have? Can you return a list of employee first names only?
-6. Bonus: How many unique days did customers rent movies in this dataset?
+6. Bonus: Hounique
